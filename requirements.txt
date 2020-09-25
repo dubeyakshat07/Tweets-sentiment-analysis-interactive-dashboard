@@ -1,0 +1,12 @@
+pycaret==1.0.0
+Flask==1.1.1
+Jinja2==2.10.1
+gunicorn==19.9.0
+certifi==2019.11.28
+itsdangerous==1.1.0
+pandas==1.1.2
+numpy==1.19.0
+streamlit==0.67.0
+matplotlib==3.3.2
+plotly==4.10.0
+seaborn==0.11.0
