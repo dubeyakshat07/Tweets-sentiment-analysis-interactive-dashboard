@@ -13,7 +13,7 @@ st.markdown("This application is a dashboard is for sentiment analysis of tweets
 
 st.sidebar.title("This application is a dashboard is for sentiment analysis of tweets built using streamlit")
 
-DATA_URL="/home/rhyme/Desktop/Project/Tweets.csv"
+DATA_URL="Tweets.csv"
 
 @st.cache(persist=True)
 def load_data():
